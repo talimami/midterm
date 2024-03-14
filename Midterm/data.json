@@ -1,0 +1,150 @@
+[
+    {
+      "id": "wallpaper1",
+      "description": "Greek Meeting",
+      "source": "wallhaven.cc",
+      "imageUrl": "images/greek.png",
+      "tags": ["greek", "philosophy", "athens"]
+    }
+    
+    ,
+
+    {
+      "id": "wallpaper2",
+      "description": "Mountain Peaks",
+      "source": "papers.co",
+      "imageUrl": "images/moutain.jpg",
+      "tags": ["Nature", "Lake", "Serene"]
+    }
+    
+    ,
+
+    {
+      "id": "wallpaper3",
+      "description": "Highway",
+      "source": "wallhaven.cc",
+      "imageUrl": "images/highway.png",
+      "tags": ["car", "road", "desert"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper4",
+      "description": "Mountain Sunrise",
+      "source": "wallhaven.cc",
+      "imageUrl": "images/moutain2.png",
+      "tags": ["desert", "sunrise", "moutain"]
+    }
+    
+    ,
+
+    {
+      "id": "wallpaper5",
+      "description": "After Drive",
+      "source": "pinterest.com",
+      "imageUrl": "images/car.jpeg",
+      "tags": ["car", "sunrise", "girl"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper6",
+      "description": "Quiet but loud",
+      "source": "pinterest.com",
+      "imageUrl": "images/car2.jpeg",
+      "tags": ["car", "neighborhood", "road"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper8",
+      "description": "Peaceful City",
+      "source": "pinterest.com",
+      "imageUrl": "images/city.jpeg",
+      "tags": ["city", "traffic", "anime"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper9",
+      "description": "Night Life",
+      "source": "pinterest.com",
+      "imageUrl": "images/city2.jpeg",
+      "tags": ["city", "night", "bus"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper10",
+      "description": "Dark Rain",
+      "source": "pinterest.com",
+      "imageUrl": "images/city3.jpeg",
+      "tags": ["city", "rain", "anime"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper11",
+      "description": "Wooden Coffee",
+      "source": "pinterest.com",
+      "imageUrl": "images/coffee.jpeg",
+      "tags": ["coffee", "sunrise", "city"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper12",
+      "description": "Coffee Diner",
+      "source": "pinterest.com",
+      "imageUrl": "images/coffee2.jpeg",
+      "tags": ["road", "coffee", "night"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper13",
+      "description": "Back Then",
+      "source": "pinterest.com",
+      "imageUrl": "images/computer.jpeg",
+      "tags": ["computer", "bedroom", "retro"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper14",
+      "description": "Fallout",
+      "source": "pinterest.com",
+      "imageUrl": "images/fallout.jpeg",
+      "tags": ["fallout", "videogame", "beach"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper15",
+      "description": "Acient Nike",
+      "source": "pinterest.com",
+      "imageUrl": "images/greek2.jpeg",
+      "tags": ["greek", "nike", "olympus"]
+    }
+
+    ,
+
+    {
+      "id": "wallpaper16",
+      "description": "Minecraft",
+      "source": "pinterest.com",
+      "imageUrl": "images/minecraft.jpeg",
+      "tags": ["minecraft", "videogame", "sunrise"]
+    }
+]
+  

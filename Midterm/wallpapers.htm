@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+
+    <header>
+        <h3 class="text-logo"> ALPHA AESTHETIC </h3>
+        <div class="nav-links">
+          <a href="index.htm">Home</a>
+          <a href="wallpapers.htm">Wallpapers</a>
+          <a href="author.htm">Personal</a>
+        </div>
+    </header>
+
+    <div class="otherpages">
+        <div style="padding-top: 10%; padding-bottom: 50px; max-width: 25%;">
+            <h1>Wallpapers</h1>
+            <p>
+                A wide range of wallpapers exists here with many themes in play, please allow your self
+                some time to taste
+            </p>
+        </div>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search by tag...">
+        </div>
+        
+        <div id="contentContainer">
+        </div>
+        
+        
+        <div style="background-color: #2b3035; width: 100%; height: 100vh;" class="boxes-container ">
+
+            <div id="gallery" class="gallery"></div>
+
+
+            <div id="imageModal" class="modal">
+                <div class="modal-content">
+                  <span class="close"></span>
+                  <img id="modalImage" src="" alt="Image Preview">
+                  <img id="imageOverlay" src="otherImages/winbg.png" display: none;>
+                  <div id="imageInfo">
+                  </div>
+                  <button id="toggleOverlay" class="toggleoverlay">Toggle Overlay</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="index.js"></script>
+</body>
+
+</html>
